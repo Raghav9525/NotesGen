@@ -1,7 +1,5 @@
 from website import create_app
 
-print("this is new feature")
-
 app = create_app()
 
 if __name__ == '__main__':
